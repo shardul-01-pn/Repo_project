@@ -4,3 +4,5 @@ cout>>"hello rhythm";
 -> yum install git -y //install git in dir
 -> git status || which git // gives you information about git version and where it is installed
 -> git init // initialize git in dir... so then {local repo, staging area} would be created
+// pull commands
+-> git pull origin master
